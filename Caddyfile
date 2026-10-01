@@ -1,0 +1,9 @@
+# Caddy fetches and renews Let's Encrypt certificates automatically.
+{$ENGINE_HOST} {
+	encode gzip
+	reverse_proxy engine:8080
+}
+
+{$N8N_HOST} {
+	reverse_proxy n8n:5678
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "quarks",
+  "business_name": "Quarks Digital",
+  "display_name": "QUARKS",
+  "industry": "Digital Marketing, SEO & Web Development",
+  "description": "Quarks Digital helps businesses grow through SEO, social media marketing, web and app development, brand strategy, and business automation.",
+  "positioning": "One team designs the interface, writes the code, tunes the search rankings, automates the back office and runs the channels. No handoffs between four vendors.",
+  "tagline": "From invisible to inevitable.",
+  "location": "Bhubaneswar, Odisha, India",
+  "website": "https://www.quarksdigital.in",
+  "phone": "",
+  "email": "quarksdigitalmarketing@gmail.com",
+  "instagram_handle": "quarksdigital",
+  "allowed_urls": [
+    "quarksdigital.in",
+    "instagram.com/quarksdigital",
+    "linkedin.com/company/quarksdigital"
+  ],
+
+  "services": [
+    { "id": "uiux", "name": "UI/UX design", "summary": "Research, wireframes and a design system your developers can actually build from - not a picture that falls apart in code.", "points": ["Audit", "Figma system", "Prototype"] },
+    { "id": "web", "name": "Web development", "summary": "Next.js sites that load fast, rank out of the box, and can be edited by someone who has never seen a terminal.", "points": ["Next.js", "CMS", "Core Web Vitals"] },
+    { "id": "app", "name": "App development", "summary": "Cross-platform iOS and Android apps, from the first screen to the store listing and the crash dashboard after launch.", "points": ["React Native", "API", "Store release"] },
+    { "id": "3d", "name": "3D & interactive", "summary": "WebGL scenes, scroll-driven film and product configurators - the reason people stay on the page instead of bouncing.", "points": ["Three.js", "GSAP", "Scroll film"] },
+    { "id": "seo", "name": "SEO", "summary": "Technical repairs, content architecture and digital PR aimed at the top results - reported as traffic and revenue, not vanity keywords.", "points": ["Technical audit", "Content", "Digital PR"] },
+    { "id": "aso", "name": "ASO", "summary": "Store listings, creative sets and keyword coverage tuned until an install costs less than it did last month.", "points": ["Keywords", "Creative", "A/B tests"] },
+    { "id": "cro", "name": "Performance & CRO", "summary": "We find the exact steps where money leaks out of your funnel, then close them one experiment at a time.", "points": ["Speed budget", "Funnel teardown", "Experiments"] },
+    { "id": "automation", "name": "Business automation", "summary": "The spreadsheet work your team repeats every week, handed to software: lead routing, CRM sync, invoicing, reporting.", "points": ["Workflow map", "Integrations", "AI agents"] },
+    { "id": "social", "name": "Social media marketing", "summary": "Channel strategy plus daily execution and community management - a team that posts, replies and reads the analytics.", "points": ["Strategy", "Community", "Paid"] },
+    { "id": "content", "name": "Content production", "summary": "Photo, video and 3D shot in one production block, cut into feed-ready assets you own outright.", "points": ["Direction", "Edit", "Asset library"] }
+  ],
+
+  "target_audience": ["Small businesses", "Startups", "Local businesses in Odisha and across India", "Founders launching a product"],
+
+  "case_studies": [
+    { "id": "mosaram", "name": "MOSARAM", "sector": "Automobile", "delivered": ["Brand film", "Web build", "Configurator", "Launch campaign"], "verified_results": [] },
+    { "id": "kute", "name": "KUTE", "sector": "Dating app", "delivered": ["Product design", "React Native", "ASO", "Store creative"], "verified_results": [] },
+    { "id": "kcpl", "name": "KCPL", "sector": "Laptop retail & distribution", "delivered": ["E-commerce", "Catalogue", "Search & filter"], "verified_results": [] },
+    { "id": "shreegautamsteel", "name": "SHREE GAUTAM STEEL", "sector": "Steel utensils manufacturer", "delivered": ["E-commerce", "Catalogue", "Storefront"], "verified_results": [] }
+  ],
+
+  "testimonials": [],
+
+  "verified_facts": [
+    "Based in Bhubaneswar, Odisha",
+    "One team covers design, engineering, SEO, automation and social media"
+  ],
+
+  "offers": [],
+  "prices": [],
+
+  "brand": {
+    "colors": {
+      "background": "#050609",
+      "surface": "#0C0E13",
+      "text": "#F1F0EC",
+      "muted": "#9BA2B0",
+      "accent": "#3ADBFF",
+      "accent_deep": "#0E8FBF",
+      "light_background": "#F1F0EC",
+      "light_text": "#0B0C0F",
+      "light_muted": "#5A5E67",
+      "light_accent": "#0B7EA0"
+    },
+    "font_family": "Switzer",
+    "fonts": [
+      { "file": "fonts/Switzer-400.woff", "weight": 400 },
+      { "file": "fonts/Switzer-500.woff", "weight": 500 },
+      { "file": "fonts/Switzer-600.woff", "weight": 600 },
+      { "file": "fonts/Switzer-700.woff", "weight": 700 }
+    ],
+    "logo": "logo.png"
+  },
+
+  "tone": ["professional", "modern", "educational", "confident", "plain-spoken"],
+  "voice_notes": "Short declarative sentences. Concrete over clever. Speaks like the people doing the work, not an account manager. Never hypes.",
+  "content_rules": {
+    "use_emojis": false,
+    "use_em_dash": false,
+    "avoid_hard_selling": true,
+    "avoid_fake_claims": true,
+    "allow_statistics": false
+  },
+  "default_cta": "DM us to talk through your project",
+  "banned_phrases": [
+    "in today's fast-paced",
+    "in today's digital age",
+    "game-changer",
+    "game changer",
+    "unlock the power",
+    "unleash",
+    "elevate your",
+    "delve",
+    "supercharge",
+    "next level",
+    "take it to the next level",
+    "look no further",
+    "revolutionize",
+    "skyrocket",
+    "guaranteed"
+  ]
+}

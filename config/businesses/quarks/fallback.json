@@ -1,0 +1,337 @@
+[
+  {
+    "content_pillar": "Behind the Scenes",
+    "topic": "Why one team instead of four vendors",
+    "angle": "How the studio is set up",
+    "hook": "Most agencies stop at the deliverable.",
+    "visual_concept": "insight card",
+    "post": {
+      "template": "insight",
+      "eyebrow": "HOW WE WORK",
+      "headline": "One team designs it, builds it, and makes sure it gets found.",
+      "subtext": "No handoffs between four vendors. No one to blame but us.",
+      "points": [],
+      "service_id": "",
+      "case_id": "",
+      "testimonial_index": -1,
+      "myth": "",
+      "fact": ""
+    },
+    "caption": "Most agencies stop at the deliverable.\n\nAt Quarks, the people who design your interface also write the code, tune the search rankings, automate the back office and run the channels.\n\nThat means design and marketing start together, so launch day has an audience already waiting.\n\nWant to see how that works for your project? DM us.",
+    "hashtags": [
+      "digitalmarketing",
+      "webdevelopment",
+      "smallbusiness",
+      "bhubaneswar"
+    ],
+    "cta": "DM us to see how it works for your project",
+    "story": {
+      "template": "story_cta",
+      "text": "One team for your site, search and socials.",
+      "subtext": "",
+      "cta": "DM us"
+    }
+  },
+  {
+    "content_pillar": "Service",
+    "topic": "Business automation for repetitive weekly work",
+    "angle": "Spot the work software should do",
+    "hook": "If your team repeats it every week, software should probably do it.",
+    "visual_concept": "service spotlight",
+    "post": {
+      "template": "service_spotlight",
+      "eyebrow": "SERVICE",
+      "headline": "Hand the repetitive work to software",
+      "subtext": "Lead routing, CRM sync, invoicing and reporting, set up once and running every week.",
+      "points": [],
+      "service_id": "automation",
+      "case_id": "",
+      "testimonial_index": -1,
+      "myth": "",
+      "fact": ""
+    },
+    "caption": "If your team repeats it every week, software should probably do it.\n\nLead routing, CRM updates, invoices and weekly reports are the usual suspects. They take hours, and mistakes creep in when people are busy.\n\nStart by listing every task your team does on a fixed schedule. That list is your automation backlog.\n\nWant help mapping yours? Send us a DM.",
+    "hashtags": [
+      "businessautomation",
+      "smallbusiness",
+      "startupindia",
+      "productivity"
+    ],
+    "cta": "Send us a DM to map your automation backlog",
+    "story": {
+      "template": "story_question",
+      "text": "Which task does your team repeat every single week?",
+      "subtext": "Reply and tell us.",
+      "cta": ""
+    }
+  },
+  {
+    "content_pillar": "Educational",
+    "topic": "What a homepage must answer in the first screen",
+    "angle": "Checklist",
+    "hook": "Your homepage has one job in the first few seconds.",
+    "visual_concept": "numbered checklist",
+    "post": {
+      "template": "list",
+      "eyebrow": "WEBSITE CHECK",
+      "headline": "Your first screen must answer four questions",
+      "subtext": "",
+      "points": [
+        "What do you do?",
+        "Who is it for?",
+        "Why should I trust you?",
+        "What should I do next?"
+      ],
+      "service_id": "",
+      "case_id": "",
+      "testimonial_index": -1,
+      "myth": "",
+      "fact": ""
+    },
+    "caption": "Your homepage has one job in the first few seconds.\n\nA visitor who cannot tell what you do, who it is for and what to do next will usually leave before scrolling.\n\nOpen your site on your phone and check the first screen against these four questions.\n\nSave this for your next website review.",
+    "hashtags": [
+      "webdesign",
+      "smallbusiness",
+      "uiux",
+      "digitalmarketing"
+    ],
+    "cta": "Save this for your next website review",
+    "story": {
+      "template": "story_tip",
+      "text": "Open your website on your phone. Can a stranger tell what you do?",
+      "subtext": "",
+      "cta": ""
+    }
+  },
+  {
+    "content_pillar": "Educational",
+    "topic": "SEO is ongoing, not a launch task",
+    "angle": "Myth vs fact",
+    "hook": "SEO is not something you switch on at launch.",
+    "visual_concept": "myth fact card",
+    "post": {
+      "template": "myth_fact",
+      "eyebrow": "SEO",
+      "headline": "SEO is not a launch task",
+      "subtext": "",
+      "points": [],
+      "service_id": "",
+      "case_id": "",
+      "testimonial_index": -1,
+      "myth": "SEO is something you set up once when the website goes live.",
+      "fact": "Rankings follow ongoing work: technical fixes, useful content and earned links."
+    },
+    "caption": "SEO is not something you switch on at launch.\n\nSearch engines reward sites that keep improving: pages that load properly, content that answers real questions, and other sites linking to you.\n\nPick one page this month and make it the most useful answer to a question your customers ask.\n\nQuestions about your own site? DM us.",
+    "hashtags": [
+      "seo",
+      "digitalmarketing",
+      "smallbusiness",
+      "localbusiness"
+    ],
+    "cta": "DM us with questions about your site",
+    "story": {
+      "template": "story_question",
+      "text": "When did you last update your website content?",
+      "subtext": "",
+      "cta": ""
+    }
+  },
+  {
+    "content_pillar": "Engagement",
+    "topic": "What slows down your marketing most",
+    "angle": "Open question",
+    "hook": "Quick question for business owners.",
+    "visual_concept": "question card",
+    "post": {
+      "template": "question",
+      "eyebrow": "YOUR TURN",
+      "headline": "What slows your marketing down the most?",
+      "subtext": "Tell us in the comments.",
+      "points": [],
+      "service_id": "",
+      "case_id": "",
+      "testimonial_index": -1,
+      "myth": "",
+      "fact": ""
+    },
+    "caption": "Quick question for business owners.\n\nIs it time, budget, not knowing what to post, or a website that does not convert the attention you already get?\n\nTell us in the comments. We read every reply.",
+    "hashtags": [
+      "smallbusiness",
+      "digitalmarketing",
+      "entrepreneur",
+      "odisha"
+    ],
+    "cta": "Tell us in the comments",
+    "story": {
+      "template": "story_question",
+      "text": "Time, budget or ideas: what holds your marketing back?",
+      "subtext": "",
+      "cta": ""
+    }
+  },
+  {
+    "content_pillar": "Problem/Solution",
+    "topic": "Why a slow site loses enquiries",
+    "angle": "Problem, cause, fix",
+    "hook": "A slow page loses people before they read a word.",
+    "visual_concept": "tip card",
+    "post": {
+      "template": "tip",
+      "eyebrow": "SPEED",
+      "headline": "Test your site on mobile data, not office Wi-Fi",
+      "subtext": "Most of your visitors are on a phone. That is the speed they actually experience.",
+      "points": [],
+      "service_id": "",
+      "case_id": "",
+      "testimonial_index": -1,
+      "myth": "",
+      "fact": ""
+    },
+    "caption": "A slow page loses people before they read a word.\n\nSites often feel fast to the team because they are tested on office Wi-Fi with a warm cache. Customers arrive on a phone, on mobile data, for the first time.\n\nOpen your site that way today. If you are waiting, so are they.\n\nWant a second pair of eyes on it? DM us.",
+    "hashtags": [
+      "webdevelopment",
+      "webdesign",
+      "smallbusiness",
+      "seo"
+    ],
+    "cta": "DM us for a second pair of eyes",
+    "story": {
+      "template": "story_tip",
+      "text": "Test your website on mobile data, not office Wi-Fi.",
+      "subtext": "",
+      "cta": ""
+    }
+  },
+  {
+    "content_pillar": "Industry Insight",
+    "topic": "Keep your Google Business Profile current",
+    "angle": "Local search basics",
+    "hook": "For many local customers, your Google listing is the first thing they see.",
+    "visual_concept": "tip card",
+    "post": {
+      "points": [],
+      "service_id": "",
+      "case_id": "",
+      "testimonial_index": -1,
+      "myth": "",
+      "fact": "",
+      "subtext": "Hours, photos and services that are out of date cost you calls you never hear about.",
+      "template": "tip",
+      "eyebrow": "LOCAL SEARCH",
+      "headline": "Your Google listing is often your first impression"
+    },
+    "caption": "For many local customers, your Google listing is the first thing they see.\n\nBefore they visit your website, they see your hours, your photos and what other people say about you.\n\nThis week, check three things: opening hours, at least a few recent photos, and that every service you offer is listed.\n\nSave this as a quick monthly check.",
+    "hashtags": [
+      "localbusiness",
+      "seo",
+      "smallbusiness",
+      "bhubaneswar"
+    ],
+    "cta": "Save this as a quick monthly check",
+    "story": {
+      "template": "story_question",
+      "text": "When did you last update your Google Business Profile?",
+      "subtext": "",
+      "cta": ""
+    }
+  },
+  {
+    "content_pillar": "Problem/Solution",
+    "topic": "One page, one call to action",
+    "angle": "Remove choices that compete",
+    "hook": "Five buttons on one page usually means zero clicks.",
+    "visual_concept": "insight card",
+    "post": {
+      "points": [],
+      "service_id": "",
+      "case_id": "",
+      "testimonial_index": -1,
+      "myth": "",
+      "fact": "",
+      "subtext": "When everything is a button, nothing gets clicked.",
+      "template": "insight",
+      "eyebrow": "CONVERSION",
+      "headline": "Every page should ask for one thing."
+    },
+    "caption": "Five buttons on one page usually means zero clicks.\n\nVisitors hesitate when a page asks them to call, email, download, subscribe and follow all at once.\n\nDecide the single next step you want from each page, make it obvious, and move everything else lower down.\n\nWant a quick look at your key pages? DM us.",
+    "hashtags": [
+      "webdesign",
+      "uiux",
+      "smallbusiness",
+      "growthmarketing"
+    ],
+    "cta": "DM us for a quick look at your key pages",
+    "story": {
+      "template": "story_tip",
+      "text": "Pick one next step per page. Make it the biggest button.",
+      "subtext": "",
+      "cta": ""
+    }
+  },
+  {
+    "content_pillar": "Service",
+    "topic": "What app store optimisation actually covers",
+    "angle": "Explain one service plainly",
+    "hook": "A good app can still go unnoticed in the store.",
+    "visual_concept": "service spotlight",
+    "post": {
+      "points": [],
+      "service_id": "aso",
+      "case_id": "",
+      "testimonial_index": -1,
+      "myth": "",
+      "fact": "",
+      "subtext": "Store listings, creative sets and keyword coverage, tuned and tested.",
+      "template": "service_spotlight",
+      "eyebrow": "SERVICE",
+      "headline": "Help the right people find your app"
+    },
+    "caption": "A good app can still go unnoticed in the store.\n\nApp store optimisation is the work of making your listing match what people actually search for, and making the screenshots and description convince them to install.\n\nStart by reading your own listing as a stranger would. Is it clear what the app does in the first line?\n\nQuestions about your listing? Send us a DM.",
+    "hashtags": [
+      "appdevelopment",
+      "startupindia",
+      "growthmarketing",
+      "digitalmarketing"
+    ],
+    "cta": "Send us a DM with questions about your listing",
+    "story": {
+      "template": "story_cta",
+      "text": "Launching an app? Talk to us about your store listing.",
+      "subtext": "",
+      "cta": "DM us"
+    }
+  },
+  {
+    "content_pillar": "Engagement",
+    "topic": "Website or Instagram first for a new business",
+    "angle": "This-or-that question",
+    "hook": "Starting a new business: where would you put your first effort?",
+    "visual_concept": "question card",
+    "post": {
+      "points": [],
+      "service_id": "",
+      "case_id": "",
+      "testimonial_index": -1,
+      "myth": "",
+      "fact": "",
+      "subtext": "Tell us your pick in the comments.",
+      "template": "question",
+      "eyebrow": "YOUR TURN",
+      "headline": "New business: website first or Instagram first?"
+    },
+    "caption": "Starting a new business: where would you put your first effort?\n\nThere is a fair case for both. A website is yours and shows up in search. Instagram is where many customers already spend their time.\n\nTell us your pick and why in the comments.",
+    "hashtags": [
+      "smallbusiness",
+      "entrepreneur",
+      "socialmediamarketing",
+      "webdesign"
+    ],
+    "cta": "Tell us your pick in the comments",
+    "story": {
+      "template": "story_question",
+      "text": "Website first or Instagram first?",
+      "subtext": "Reply with your pick.",
+      "cta": ""
+    }
+  }
+]

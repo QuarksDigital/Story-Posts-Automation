@@ -1,0 +1,76 @@
+{
+  "automation_enabled": true,
+  "approval_mode": true,
+  "timezone": "Asia/Kolkata",
+
+  "schedule": {
+    "generate_at": "07:30",
+    "post_at": "09:00",
+    "story_at": "19:00",
+    "publish_window_hours": 6
+  },
+
+  "skip_dates": [],
+
+  "weekly_calendar": {
+    "monday": "Educational",
+    "tuesday": "Service",
+    "wednesday": "Industry Insight",
+    "thursday": "Problem/Solution",
+    "friday": "Case Study",
+    "saturday": "Behind the Scenes",
+    "sunday": "Engagement"
+  },
+
+  "pillars": {
+    "Educational": {
+      "ideas": ["Tips", "Common mistakes", "How-to", "Checklists", "Plain-language explanations of a technical term"],
+      "templates": ["tip", "list", "myth_fact"]
+    },
+    "Service": {
+      "ideas": ["Explain one service", "Who it is for", "What the engagement looks like", "Common questions about it"],
+      "templates": ["service_spotlight", "list"]
+    },
+    "Industry Insight": {
+      "ideas": ["A shift in search, social or web that small businesses should know", "What a trend actually means for a local business", "An opinion on a common industry practice"],
+      "templates": ["insight", "tip", "myth_fact"]
+    },
+    "Problem/Solution": {
+      "ideas": ["Name a specific customer problem", "Explain why it happens", "Present the fix"],
+      "templates": ["list", "myth_fact", "tip"]
+    },
+    "Case Study": {
+      "ideas": ["What we delivered for a listed client and why", "The problem a listed project solved", "A real testimonial, only if one is listed"],
+      "templates": ["case_study", "testimonial"]
+    },
+    "Behind the Scenes": {
+      "ideas": ["How the one-team model works day to day", "How a project moves from brief to launch", "A principle the studio works by"],
+      "templates": ["insight", "list"]
+    },
+    "Engagement": {
+      "ideas": ["A question for the audience", "This-or-that", "An opinion prompt"],
+      "templates": ["question"]
+    }
+  },
+
+  "story_templates": ["story_question", "story_tip", "story_cta"],
+
+  "caption": {
+    "max_chars": 900,
+    "structure": ["hook", "value", "takeaway", "cta"],
+    "hashtags_min": 3,
+    "hashtags_max": 8,
+    "always_include_hashtags": [],
+    "hashtag_pool": [
+      "digitalmarketing", "smallbusiness", "webdesign", "webdevelopment", "seo",
+      "socialmediamarketing", "businessautomation", "uiux", "appdevelopment",
+      "bhubaneswar", "odisha", "startupindia", "branding", "growthmarketing", "localbusiness"
+    ]
+  },
+
+  "history_days": 30,
+  "retention": {
+    "drafts_days": 14,
+    "published_days": 365
+  }
+}

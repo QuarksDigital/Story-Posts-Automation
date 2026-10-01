@@ -1,0 +1,22 @@
+{
+  "name": "quarks-instagram-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Low-cost daily Instagram post + story automation (templates + one LLM call/day + official Graph API).",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node --no-warnings=ExperimentalWarning src/server.js",
+    "cli": "node --no-warnings=ExperimentalWarning src/cli.js",
+    "test": "node --no-warnings=ExperimentalWarning --test \"test/*.test.js\""
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0",
+    "@resvg/resvg-js": "^2.6.2",
+    "satori": "^0.33.5",
+    "sharp": "^0.35.5",
+    "zod": "^4.6.5"
+  }
+}
