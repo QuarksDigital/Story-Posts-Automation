@@ -16,7 +16,8 @@ export const anthropicProvider = {
       system,
       messages: [{ role: "user", content: user }],
       output_config: {
-        effort: settings.llm.effort, // "low" keeps thinking (billed as output) small
+        // "low" keeps thinking (billed as output) small. Haiku 4.5 rejects the effort parameter.
+        ...(settings.llm.effort && !model.includes("haiku") ? { effort: settings.llm.effort } : {}),
         format: zodOutputFormat(schema),
       },
     });
